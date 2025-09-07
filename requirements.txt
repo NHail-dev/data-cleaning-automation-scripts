@@ -1,1 +1,3 @@
-excel_cleaner.py
+pandas
+openpyxl
+sqlalchemy

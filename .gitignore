@@ -1,0 +1,6 @@
+# Ignore logs and SSH keys
+LOGS/
+*.key
+*.pem
+SSH
+SSH.pub
